@@ -168,6 +168,7 @@ body{
         width: clamp(20rem, calc(40rem + 2vw), 2rem);
         /*max-height: 50vh;*/
         height: 70vh;
+        background: red;
         
     }
 }

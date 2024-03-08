@@ -165,9 +165,9 @@ body{
     
     .card__style{
         
-        width: clamp(22rem, calc(40rem + 2vw), 22rem);
+        width: clamp(20rem, calc(40rem + 2vw), 2rem);
         /*max-height: 50vh;*/
-        height: 50vh;
+        height: 70vh;
         
     }
 }
